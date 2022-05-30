@@ -1,6 +1,6 @@
 {
   "branches": [
-     "master",
+     "main",
      {"name": "hotfix/*", "prerelease": "hotfix"},
      {"name": "rc/*", "prerelease": "rc"}
   ],
