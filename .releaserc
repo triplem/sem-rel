@@ -10,7 +10,7 @@
     [
       "@semantic-release/changelog", 
       {
-        "changelogFile": "changelog.md",
+        "changelogFile": "",
         "changelogTitle": "# sem-rel"
       }
     ],
