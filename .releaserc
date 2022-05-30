@@ -8,12 +8,6 @@
   "plugins": [
     "@semantic-release/commit-analyzer",
     [
-      "@semantic-release/release-notes-generator",
-      {
-        "host": "http://localhost"
-      }
-    ],
-    [
       "@semantic-release/changelog", 
       {
         "changelogFile": "changelog.md",
