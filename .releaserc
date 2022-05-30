@@ -7,11 +7,18 @@
   "tagFormat": "${version}",
   "plugins": [
     "@semantic-release/commit-analyzer",
-    ["@semantic-release/changelog", {
-      "changlogFile": "changelog.md"
-    }],
-    ["@semantic-release/git", {
-      "assets": "changelog.md"
-    }]
+    [
+      "@semantic-release/changelog", 
+      {
+        "changelogFile": "changelog.md",
+        "changelogTitle": "# sem-rel"
+      }
+    ],
+    [
+      "@semantic-release/git", 
+      {
+        "assets": "changelog.md"
+      }
+    ]
   ]
 }
