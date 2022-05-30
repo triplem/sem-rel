@@ -1,7 +1,7 @@
 {
   "branches": [
      "master",
-     {"name": "hotfix/*", "prerelease": "hotfix"}
+     {"name": "hotfix/*", "prerelease": "hotfix"},
      {"name": "rc/*", "prerelease": "rc"}
   ],
   "tagFormat": "${version}"
