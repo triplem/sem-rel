@@ -1,6 +1,7 @@
 {
   "branches": [
      "main",
+     {"name": "feat/*", "prerelease": "${name.replace(/^feat\\//g, '')}"},
      {"name": "hotfix/*", "prerelease": "hotfix"},
      {"name": "rc/*", "prerelease": "rc"}
   ],
