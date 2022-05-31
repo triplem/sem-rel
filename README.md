@@ -27,7 +27,7 @@ If github/ github Enterprise is used, the git-plugin does not need to be install
 
 ## Branchmanagement
 
-
+What happens, if a merge from `main` to `develop` is missed?
 
 ## Steps in build process
 
