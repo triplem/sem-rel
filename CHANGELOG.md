@@ -1,5 +1,17 @@
 # sem-rel
 
+# [1.6.0](https://github.com/triplem/sem-rel/compare/1.5.1...1.6.0) (2022-05-31)
+
+
+### Bug Fixes
+
+* merge ([a45027c](https://github.com/triplem/sem-rel/commit/a45027c0fa4264ba304e21711aec859d3d4b0008))
+
+
+### Features
+
+* commit without previous merge from main ([e6e4368](https://github.com/triplem/sem-rel/commit/e6e4368f653a3cd15af275cd092a72bc9e54aea6))
+
 # [1.6.0-develop.1](https://github.com/triplem/sem-rel/compare/1.5.1-develop.2...1.6.0-develop.1) (2022-05-31)
 
 ### Features
