@@ -25,6 +25,10 @@ Please note, that the flag `--no-ci` is required, if this tool is called outside
 
 If github/ github Enterprise is used, the git-plugin does not need to be installed, instead the corresponding github-plugin can be used, which is installed by default with semantic-release.
 
+## Branchmanagement
+
+
+
 ## Steps in build process
 
 ### Steps not related to the generated version
