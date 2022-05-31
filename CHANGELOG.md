@@ -1,5 +1,13 @@
 # sem-rel
 
+# [1.5.0](https://github.com/triplem/sem-rel/compare/1.4.0...1.5.0) (2022-05-31)
+
+
+### Features
+
+* add documentation ([1941d13](https://github.com/triplem/sem-rel/commit/1941d134419e3e1cc62aeb4a130bd9168d3a5502))
+* add documentation - 2 ([f60d575](https://github.com/triplem/sem-rel/commit/f60d5754da18a86c6b4c997caec87fbbfb10cb9b))
+
 # [1.5.0-develop.2](https://github.com/triplem/sem-rel/compare/1.5.0-develop.1...1.5.0-develop.2) (2022-05-31)
 
 
