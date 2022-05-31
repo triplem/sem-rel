@@ -1,5 +1,12 @@
 # sem-rel
 
+# [1.6.0-develop.1](https://github.com/triplem/sem-rel/compare/1.5.1-develop.2...1.6.0-develop.1) (2022-05-31)
+
+
+### Features
+
+* commit without previous merge from main ([e6e4368](https://github.com/triplem/sem-rel/commit/e6e4368f653a3cd15af275cd092a72bc9e54aea6))
+
 ## [1.5.1-develop.2](https://github.com/triplem/sem-rel/compare/1.5.1-develop.1...1.5.1-develop.2) (2022-05-31)
 
 
