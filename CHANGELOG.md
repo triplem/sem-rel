@@ -1,5 +1,12 @@
 # sem-rel
 
+## [1.3.4](https://github.com/triplem/sem-rel/compare/1.3.3...1.3.4) (2022-05-31)
+
+
+### Bug Fixes
+
+* testing hotfixes by adding readme ([6b2d3bc](https://github.com/triplem/sem-rel/commit/6b2d3bc0b6278ae89a5acbae397911a05ffc035a))
+
 ## [1.3.4-hotfix.1](https://github.com/triplem/sem-rel/compare/1.3.3...1.3.4-hotfix.1) (2022-05-31)
 
 
