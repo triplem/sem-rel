@@ -1,13 +1,18 @@
 # sem-rel
 
-## [1.6.1](https://github.com/triplem/sem-rel/compare/1.6.0...1.6.1) (2022-05-31)
-
+## [1.6.1-develop.3](https://github.com/triplem/sem-rel/compare/1.6.1-develop.2...1.6.1-develop.3) (2022-05-31)
 
 ### Bug Fixes
 
-* add merge conflict docs ([506ea03](https://github.com/triplem/sem-rel/commit/506ea03ea21ef2f88cd1bdd7fd2fcbc9608f2eb6))
+* add additional docs ([ccd4767](https://github.com/triplem/sem-rel/commit/ccd4767f608703a8203df0f9c7bee6c929865a0c))
 
-## [1.6.1-develop.1](https://github.com/triplem/sem-rel/compare/1.6.0...1.6.1-develop.1) (2022-05-31)
+## [1.6.1-develop.2](https://github.com/triplem/sem-rel/compare/1.6.1-develop.1...1.6.1-develop.2) (2022-05-31)
+
+### Bug Fixes
+
+* retry without merge from main ([47fb8aa](https://github.com/triplem/sem-rel/commit/47fb8aa367fc43743ffdc489b0f3dce696ea820f))
+
+## [1.6.1](https://github.com/triplem/sem-rel/compare/1.6.0...1.6.1) (2022-05-31)
 
 
 ### Bug Fixes
