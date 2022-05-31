@@ -28,6 +28,8 @@ If github/ github Enterprise is used, the git-plugin does not need to be install
 ## Branchmanagement
 
 What happens, if a merge from `main` to `develop` is missed?
+* merge conflict on merging from develop to main in Changelog (like expected)
+
 
 ## Steps in build process
 
