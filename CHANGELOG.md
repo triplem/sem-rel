@@ -1,5 +1,13 @@
 # sem-rel
 
+# [1.4.0](https://github.com/triplem/sem-rel/compare/1.3.4...1.4.0) (2022-05-31)
+
+
+### Features
+
+* add develop branch as well ([bdb37c0](https://github.com/triplem/sem-rel/commit/bdb37c0dbd0c1342c864824315d2bf6f355e1e68))
+* first try to use regexp ([4d4d07e](https://github.com/triplem/sem-rel/commit/4d4d07e97284cb27cba9c41d48227fc67c383310))
+
 # [1.4.0-new-feature-1.2](https://github.com/triplem/sem-rel/compare/1.4.0-new-feature-1.1...1.4.0-new-feature-1.2) (2022-05-31)
 
 
