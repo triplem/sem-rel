@@ -1,5 +1,12 @@
 # sem-rel
 
+# [1.4.0-new-feature-1.1](https://github.com/triplem/sem-rel/compare/1.3.4...1.4.0-new-feature-1.1) (2022-05-31)
+
+
+### Features
+
+* first try to use regexp ([4d4d07e](https://github.com/triplem/sem-rel/commit/4d4d07e97284cb27cba9c41d48227fc67c383310))
+
 ## [1.3.4](https://github.com/triplem/sem-rel/compare/1.3.3...1.3.4) (2022-05-31)
 
 
