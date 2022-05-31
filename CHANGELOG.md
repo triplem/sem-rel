@@ -1,15 +1,20 @@
 # sem-rel
 
-## [1.5.1](https://github.com/triplem/sem-rel/compare/1.5.0...1.5.1) (2022-05-31)
+# [1.6.0-develop.1](https://github.com/triplem/sem-rel/compare/1.5.1-develop.2...1.6.0-develop.1) (2022-05-31)
 
+### Features
+
+* commit without previous merge from main ([e6e4368](https://github.com/triplem/sem-rel/commit/e6e4368f653a3cd15af275cd092a72bc9e54aea6))
+
+## [1.5.1](https://github.com/triplem/sem-rel/compare/1.5.0...1.5.1) (2022-05-31)
 
 ### Bug Fixes
 
 * add docs ([e3621b5](https://github.com/triplem/sem-rel/commit/e3621b55d172b3388f8c3f27c3dae167f6af37c7))
 * add documentation for branch management ([724c482](https://github.com/triplem/sem-rel/commit/724c482fdba1be2032a74598389bab86803d09a2))
 
-## [1.5.1-develop.2](https://github.com/triplem/sem-rel/compare/1.5.1-develop.1...1.5.1-develop.2) (2022-05-31)
 
+## [1.5.1-develop.2](https://github.com/triplem/sem-rel/compare/1.5.1-develop.1...1.5.1-develop.2) (2022-05-31)
 
 ### Bug Fixes
 
