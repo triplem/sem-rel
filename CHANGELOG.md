@@ -1,5 +1,12 @@
 # sem-rel
 
+## [1.6.1-develop.2](https://github.com/triplem/sem-rel/compare/1.6.1-develop.1...1.6.1-develop.2) (2022-05-31)
+
+
+### Bug Fixes
+
+* retry without merge from main ([47fb8aa](https://github.com/triplem/sem-rel/commit/47fb8aa367fc43743ffdc489b0f3dce696ea820f))
+
 ## [1.6.1-develop.1](https://github.com/triplem/sem-rel/compare/1.6.0...1.6.1-develop.1) (2022-05-31)
 
 
