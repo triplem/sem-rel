@@ -1,5 +1,12 @@
 # sem-rel
 
+## [1.6.1-develop.1](https://github.com/triplem/sem-rel/compare/1.6.0...1.6.1-develop.1) (2022-05-31)
+
+
+### Bug Fixes
+
+* add merge conflict docs ([506ea03](https://github.com/triplem/sem-rel/commit/506ea03ea21ef2f88cd1bdd7fd2fcbc9608f2eb6))
+
 # [1.6.0](https://github.com/triplem/sem-rel/compare/1.5.1...1.6.0) (2022-05-31)
 
 
